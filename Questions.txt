@@ -1,0 +1,21 @@
+Our goal:
+Identify key factors driving customer churn
+Identify hig-risk customer segment
+Revenue lost due to churn
+Customer behavior patterns BEFORE chur
+Strategy to reduce churn
+
+Stackholder Questions:
+Overall Churn rate
+How much revenue is lost due to churn
+Count of customer churn every month
+Avg customer tenure
+Customer segment churn the most
+New customer churn faster?
+Do customer with high monthly charges churn more?
+Does service type affect churn?
+
+
+
+
+

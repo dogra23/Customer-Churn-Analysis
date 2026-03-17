@@ -1,0 +1,4 @@
+charge_category,customers,churned,churn_rate
+Low,1831,213,11.63
+Medium,2536,750,29.57
+High,2665,906,34.00
