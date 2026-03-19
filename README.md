@@ -36,7 +36,5 @@
 - Introduce retention offers for high-risk customers
 
 
-## Dashboard
-![Dashboard Preview]("C:\Users\shobh\OneDrive\Pictures\Screenshots\Screenshot 2026-03-17 181618.png")
 
   
